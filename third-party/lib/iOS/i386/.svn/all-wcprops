@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/30/trunk/lib/iOS/i386
+END
+libutil.a
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/30/trunk/lib/iOS/i386/libutil.a
+END
+libHttpEngine.a
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/30/trunk/lib/iOS/i386/libHttpEngine.a
+END
+libjson.a
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/30/trunk/lib/iOS/i386/libjson.a
+END

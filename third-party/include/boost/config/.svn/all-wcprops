@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/30/trunk/include/boost/config
+END
+abi_suffix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/30/trunk/include/boost/config/abi_suffix.hpp
+END
+posix_features.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30/trunk/include/boost/config/posix_features.hpp
+END
+suffix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/30/trunk/include/boost/config/suffix.hpp
+END
+select_stdlib_config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/30/trunk/include/boost/config/select_stdlib_config.hpp
+END
+auto_link.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30/trunk/include/boost/config/auto_link.hpp
+END
+abi_prefix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/30/trunk/include/boost/config/abi_prefix.hpp
+END
+select_platform_config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/30/trunk/include/boost/config/select_platform_config.hpp
+END
+warning_disable.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/30/trunk/include/boost/config/warning_disable.hpp
+END
+requires_threads.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30/trunk/include/boost/config/requires_threads.hpp
+END
+select_compiler_config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/30/trunk/include/boost/config/select_compiler_config.hpp
+END
+user.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/30/trunk/include/boost/config/user.hpp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6/trunk/include/cppunit/ui/mfc
+END
+TestRunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/include/cppunit/ui/mfc/TestRunner.h
+END
+MfcTestRunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/include/cppunit/ui/mfc/MfcTestRunner.h
+END

@@ -1,0 +1,46 @@
+10
+
+dir
+38
+http://weibo-sdk-util.googlecode.com/svn/trunk/include
+http://weibo-sdk-util.googlecode.com/svn
+
+
+
+2012-08-21T11:05:59.706868Z
+35
+chn.gangchen@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6b9b270d-f256-f576-b152-b46f1e35f87e
+
+json
+dir
+
+cppunit
+dir
+
+libutil
+dir
+
+HttpEngine
+dir
+
+curl
+dir
+
+boost
+dir
+

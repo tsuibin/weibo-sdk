@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/24/trunk/src/Parsing
+END
+ParsingHandle.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/trunk/src/Parsing/ParsingHandle.hxx
+END
+ParsingObject.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24/trunk/src/Parsing/ParsingObject.cxx
+END
+ParsingHandle.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/trunk/src/Parsing/ParsingHandle.cxx
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6/trunk/include/cppunit/config
+END
+CppUnitApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/include/cppunit/config/CppUnitApi.h
+END
+SourcePrefix.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/include/cppunit/config/SourcePrefix.h
+END
+config-bcb5.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/include/cppunit/config/config-bcb5.h
+END
+config-msvc6.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/include/cppunit/config/config-msvc6.h
+END
+SelectDllLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/include/cppunit/config/SelectDllLoader.h
+END
+config-mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/include/cppunit/config/config-mac.h
+END
+config-evc4.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/include/cppunit/config/config-evc4.h
+END

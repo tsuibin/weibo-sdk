@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/30/trunk/include/boost/config/platform
+END
+qnxnto.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/30/trunk/include/boost/config/platform/qnxnto.hpp
+END
+beos.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/30/trunk/include/boost/config/platform/beos.hpp
+END
+cray.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/30/trunk/include/boost/config/platform/cray.hpp
+END
+linux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30/trunk/include/boost/config/platform/linux.hpp
+END
+cygwin.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/30/trunk/include/boost/config/platform/cygwin.hpp
+END
+macos.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30/trunk/include/boost/config/platform/macos.hpp
+END
+symbian.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30/trunk/include/boost/config/platform/symbian.hpp
+END
+win32.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30/trunk/include/boost/config/platform/win32.hpp
+END
+vms.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/30/trunk/include/boost/config/platform/vms.hpp
+END
+bsd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/30/trunk/include/boost/config/platform/bsd.hpp
+END
+irix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/30/trunk/include/boost/config/platform/irix.hpp
+END
+solaris.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30/trunk/include/boost/config/platform/solaris.hpp
+END
+amigaos.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30/trunk/include/boost/config/platform/amigaos.hpp
+END
+aix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/30/trunk/include/boost/config/platform/aix.hpp
+END
+vxworks.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30/trunk/include/boost/config/platform/vxworks.hpp
+END
+hpux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/30/trunk/include/boost/config/platform/hpux.hpp
+END

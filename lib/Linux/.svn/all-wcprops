@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/15/trunk/lib/Linux
+END
+libWeiboSDK.so.0
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/lib/Linux/libWeiboSDK.so.0
+END
+libWeiboSDK.a
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/lib/Linux/libWeiboSDK.a
+END
+libWeiboSDK.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/lib/Linux/libWeiboSDK.so
+END
+libWeiboSDK.so.0.0.0
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/15/trunk/lib/Linux/libWeiboSDK.so.0.0.0
+END
+libWeiboSDK.la
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/lib/Linux/libWeiboSDK.la
+END
