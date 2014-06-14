@@ -221,9 +221,9 @@ std::string WeiboTestCaseResult::outputString()
 //////////////////////////////////////////////////////////////////////////////
 // Case helper
 
-#define APP_KEY "1016351065"
-#define APP_SECRET "186ea22b3ea58bfa90923f55fe8b2749"
-#define REDIRECT_URL "http://www.example.com/response"
+#define APP_KEY "4079228786"
+#define APP_SECRET "4446e2a2d27023df098700391dabb9cb"
+#define REDIRECT_URL "http://deepinid.linuxdeepin.com/sinablog"
 
 WeiboTestCaseHelper::WeiboTestCaseHelper()
 {

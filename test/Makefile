@@ -14,11 +14,11 @@ endif
 
 # DEFS = -D_USE_JSON_PARSER
 LIBS = \
-       $(top_srcdir)/../weibo-sdk-util/lib/$(PLATFORM_KEY)/libcppunit.a\
+       $(top_srcdir)/../weibo-sdk/third-party/lib/$(PLATFORM_KEY)/libcppunit.a\
        $(top_srcdir)/lib/$(PLATFORM_KEY)/libWeiboSDK.$(LIB_NAME)\
-       $(top_srcdir)/../weibo-sdk-util/lib/$(PLATFORM_KEY)/libHttpEngine.$(LIB_NAME)\
-       $(top_srcdir)/../weibo-sdk-util/lib/$(PLATFORM_KEY)/libutil.$(LIB_NAME)\
-       $(top_srcdir)/../weibo-sdk-util/lib/$(PLATFORM_KEY)/libjson.$(LIB_NAME)\
+       $(top_srcdir)/../weibo-sdk/third-party/lib/$(PLATFORM_KEY)/libHttpEngine.$(LIB_NAME)\
+       $(top_srcdir)/../weibo-sdk/third-party/lib/$(PLATFORM_KEY)/libutil.$(LIB_NAME)\
+       $(top_srcdir)/../weibo-sdk/third-party/lib/$(PLATFORM_KEY)/libjson.$(LIB_NAME)\
        -lcurl -lpthread -lssl
 
 INCLUDES = \
